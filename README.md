@@ -1,3 +1,4 @@
+![Banner](6AA6E5F5-D60B-4FA3-BB42-5BA027BDDF45.png)
 # Hi there 👋, I'm Nana Yaw Gyamfi Mensah  
 
 🎓 A Computer Science student at the University of Cape Coast, Ghana.  
